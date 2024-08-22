@@ -19,6 +19,6 @@ npm start
 The Application Runs on *localhost:3000* by default
 
 ## ScreenShot
- <img src="./src/assets/dashboard.png" alt="dashboard" />
- <img src="./src/assets/aaddwidget.png" alt="widget" />
- <img src="./src/assets/dashboard2.png" alt="dashboard" />
+ <img src="./src/assests/dashboard.png" alt="dashboard" />
+ <img src="./src/assests/aaddwidget.png" alt="widget" />
+ <img src="./src/assests/dashboard2.png" alt="dashboard" />
